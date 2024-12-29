@@ -4,7 +4,8 @@
 // @match       *://hsdtoolbox/tools/firmware/updater.php
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      Daniel Martinez
+// @downloadURL 
 // @description 12/25/2024, 3:32:22 PM
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
