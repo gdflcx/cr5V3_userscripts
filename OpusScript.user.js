@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      Dan M
+// @downloadURL https://raw.githubusercontent.com/gdflcx/cr5V3_userscripts/refs/heads/main/OpusScript.user.js
 // @description 1/4/2025, 8:35:33 AM
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // ==/UserScript==
