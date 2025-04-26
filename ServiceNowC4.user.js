@@ -3,6 +3,7 @@
 // @match       *://caboproduction.service-now.com/now/*
 // @version      1.0
 // @author       Dan M
+// @downloadURL https://raw.githubusercontent.com/gdflcx/cr5V3_userscripts/refs/heads/main/ServiceNowC4.user.js
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // @require https://cdn.jsdelivr.net/gh/jquery/jquery/dist/jquery.min.js
 // ==/UserScript==
