@@ -3,12 +3,13 @@
 // @namespace   C4OpusScriptuserscript
 // @match       *://opus/*
 // @grant       none
-// @version     1.20250426a
+// @version     1.20250426b
 // @author      Dan M
 // @downloadURL https://raw.githubusercontent.com/gdflcx/cr5V3_userscripts/refs/heads/main/OpusScript.user.js
 // @description 1/4/2025, 8:35:33 AM
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // ==/UserScript==
+/* eslint-disable */
 
 function copyText(stringText) {
   navigator.clipboard.writeText(stringText);
