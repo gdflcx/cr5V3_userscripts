@@ -17,10 +17,10 @@ function copyText(stringText) {
 
 VM.shortcut.register('a-l', () => {
   console.log('You just pressed Alt-L');
-  //let utxp = document.querySelectorAll("[class='mainmenu ng-binding']")[3].innerText;
-  //let drxl = document.querySelectorAll("[class='mainmenu ng-binding']")[7].innerText;
-  let utxp = document.querySelectorAll("[class='mainmenu ng-binding']")[7].innerText;
-  let drxl = document.querySelectorAll("[class='mainmenu ng-binding']")[11].innerText;
+  let utxp = document.querySelectorAll("[class='mainmenu ng-binding']")[3].innerText;
+  let drxl = document.querySelectorAll("[class='mainmenu ng-binding']")[7].innerText;
+  //let utxp = document.querySelectorAll("[class='mainmenu ng-binding']")[7].innerText;
+  //let drxl = document.querySelectorAll("[class='mainmenu ng-binding']")[11].innerText;
   //console.log("UTXP: " + utxp + " " + "DRXL: " + drxl);
   let signals = "UTXP: " + utxp + "\n" + "DRXL: " + drxl;
   copyText(signals);
