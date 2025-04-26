@@ -5,7 +5,7 @@
 // @match       http://staticip.corp.cableone.net/StaticIP.html
 // @grant       none
 // @version     1.0
-// @author      Daniel Martinez
+// @author      Dan M
 // @description 1/18/2025, 1:58:01 PM
 // @require https://cdn.jsdelivr.net/gh/jquery/jquery/dist/jquery.min.js
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
