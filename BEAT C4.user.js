@@ -4,7 +4,7 @@
 // @match       https://beat.corp.cableone.net/d/ae0wt9aw6hp8ga/beat*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      Dan M
 // @description 4/25/2025, 8:58:40 AM
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // ==/UserScript==
