@@ -6,6 +6,7 @@
 // @grant       none
 // @version     1.0
 // @author      Dan M
+// @downloadURL https://raw.githubusercontent.com/gdflcx/cr5V3_userscripts/refs/heads/main/StaticIPScript.user.js
 // @description 1/18/2025, 1:58:01 PM
 // @require https://cdn.jsdelivr.net/gh/jquery/jquery/dist/jquery.min.js
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
