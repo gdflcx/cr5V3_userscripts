@@ -6,7 +6,7 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @version      1.0
-// @author       Daniel Marinez
+// @author       Dan M
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // @require https://cdn.jsdelivr.net/gh/jquery/jquery/dist/jquery.min.js
 // ==/UserScript==
