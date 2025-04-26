@@ -4,7 +4,7 @@
 // @match       *://opus/*
 // @grant       none
 // @version     1.0
-// @author      Daniel Martinez
+// @author      Dan M
 // @description 1/4/2025, 8:35:33 AM
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // ==/UserScript==
