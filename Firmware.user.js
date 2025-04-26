@@ -3,7 +3,7 @@
 // @namespace   Firmware Script
 // @match       *://hsdtoolbox/tools/firmware/updater.php
 // @grant       none
-// @version     1.04252025
+// @version     1.04252025a
 // @author      Daniel Martinez
 // @downloadURL https://github.com/gdflcx/FirmwareToolus/raw/refs/heads/main/Firmware.user.js
 // @description 12/25/2024, 3:32:22 PM
