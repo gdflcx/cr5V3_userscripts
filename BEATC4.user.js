@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      Dan M
+// @downloadURL https://raw.githubusercontent.com/gdflcx/cr5V3_userscripts/refs/heads/main/BEATC4.user.js
 // @description 4/25/2025, 8:58:40 AM
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // ==/UserScript==
