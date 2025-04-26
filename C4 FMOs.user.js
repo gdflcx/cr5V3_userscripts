@@ -4,7 +4,7 @@
 // @match       *://cableone.etadirect.com/*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      Dan M
 // @description 1/4/2025, 3:28:24 PM
 // @run-at       document-idle
 // @require   https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
