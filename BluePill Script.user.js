@@ -4,7 +4,7 @@
 // @match       *://bluepill/*
 // @grant       none
 // @version     1.0
-// @author      Daniel Martinez
+// @author      Dan M
 // @description 1/4/2025, 11:08:58 AM
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
 // ==/UserScript==
